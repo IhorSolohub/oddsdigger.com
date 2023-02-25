@@ -1,0 +1,92 @@
+{
+  "uid" : "a22194ee1f373e0c",
+  "name" : "inPlayBetButtonTest",
+  "fullName" : "tests.main.MainTest.inPlayBetButtonTest",
+  "historyId" : "6290e4102554de1c6d86014acc983a9",
+  "time" : {
+    "start" : 1677069676530,
+    "stop" : 1677069693791,
+    "duration" : 17261
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1677069662998,
+      "stop" : 1677069676517,
+      "duration" : 13519
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "clearCookiesAndExit",
+    "time" : {
+      "start" : 1677069693794,
+      "stop" : 1677069694049,
+      "duration" : 255
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.main.MainTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.main.MainTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "inPlayBetButtonTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "oddsdigger.com"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.main.MainTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-S34RN4U"
+  }, {
+    "name" : "thread",
+    "value" : "13524@DESKTOP-S34RN4U.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a22194ee1f373e0c.json",
+  "parameterValues" : [ ]
+}

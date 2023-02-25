@@ -1,0 +1,92 @@
+{
+  "uid" : "3e235328e5dfa58b",
+  "name" : "regButtonsOnMiniBannersTest",
+  "fullName" : "tests.main.MainTest.regButtonsOnMiniBannersTest",
+  "historyId" : "39e5ef05b8a1c78948297f3db30a5593",
+  "time" : {
+    "start" : 1677311230848,
+    "stop" : 1677311353977,
+    "duration" : 123129
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1677311220458,
+      "stop" : 1677311230485,
+      "duration" : 10027
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "clearCookiesAndExit",
+    "time" : {
+      "start" : 1677311354037,
+      "stop" : 1677311354362,
+      "duration" : 325
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.main.MainTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.main.MainTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "regButtonsOnMiniBannersTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "oddsdigger.com"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.main.MainTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-S34RN4U"
+  }, {
+    "name" : "thread",
+    "value" : "26088@DESKTOP-S34RN4U.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3e235328e5dfa58b.json",
+  "parameterValues" : [ ]
+}

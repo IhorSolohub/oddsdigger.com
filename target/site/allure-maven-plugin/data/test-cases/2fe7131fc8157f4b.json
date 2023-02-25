@@ -1,0 +1,225 @@
+{
+  "uid" : "2fe7131fc8157f4b",
+  "name" : "mainLogoLinkTest",
+  "fullName" : "tests.main.MainTest.mainLogoLinkTest",
+  "historyId" : "83b5ca26aef42e9677c624e8eac59bb6",
+  "time" : {
+    "start" : 1677266968055,
+    "stop" : 1677266982821,
+    "duration" : 14766
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1677266962394,
+      "stop" : 1677266968012,
+      "duration" : 5618
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "clearCookiesAndExit",
+    "time" : {
+      "start" : 1677266982862,
+      "stop" : 1677266983083,
+      "duration" : 221
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.main.MainTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.main.MainTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "mainLogoLinkTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "oddsdigger.com"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.main.MainTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-S34RN4U"
+  }, {
+    "name" : "thread",
+    "value" : "24392@DESKTOP-S34RN4U.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "eb13baed861fdf4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1677266947516,
+        "stop" : 1677266962151,
+        "duration" : 14635
+      }
+    }, {
+      "uid" : "2966514760ab753b",
+      "status" : "skipped",
+      "statusDetails" : "java.util.concurrent.TimeoutException\nBuild info: version: '4.1.4', revision: '535d840ee2'\nSystem info: host: 'DESKTOP-S34RN4U', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2f7fe1c43c77c50786ac7e2328d43dd, close {}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.104, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\\Users\\Igor\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59075}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59075/devtoo..., se:cdpVersion: 110.0.5481.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: d2f7fe1c43c77c50786ac7e2328d43dd",
+      "time" : {
+        "start" : 1677085375617,
+        "stop" : 1677085375617,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1680629a71a794ad",
+      "status" : "skipped",
+      "statusDetails" : "java.util.concurrent.TimeoutException\nBuild info: version: '4.1.4', revision: '535d840ee2'\nSystem info: host: 'DESKTOP-S34RN4U', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2f7fe1c43c77c50786ac7e2328d43dd, close {}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.104, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\\Users\\Igor\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59075}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59075/devtoo..., se:cdpVersion: 110.0.5481.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: d2f7fe1c43c77c50786ac7e2328d43dd",
+      "time" : {
+        "start" : 1677085375609,
+        "stop" : 1677085375609,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "13ffad61122dad3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1677083058857,
+        "stop" : 1677083073117,
+        "duration" : 14260
+      }
+    }, {
+      "uid" : "d30da7539d63dfd2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1677083039743,
+        "stop" : 1677083053904,
+        "duration" : 14161
+      }
+    }, {
+      "uid" : "bfebc5e2658e5e97",
+      "status" : "passed",
+      "time" : {
+        "start" : 1677081565172,
+        "stop" : 1677081579543,
+        "duration" : 14371
+      }
+    }, {
+      "uid" : "e62b51d41d5c8005",
+      "status" : "passed",
+      "time" : {
+        "start" : 1677081546297,
+        "stop" : 1677081560400,
+        "duration" : 14103
+      }
+    }, {
+      "uid" : "71eecd436bd67807",
+      "status" : "passed",
+      "time" : {
+        "start" : 1677079692409,
+        "stop" : 1677079706472,
+        "duration" : 14063
+      }
+    }, {
+      "uid" : "918dc9d3a6592faf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1677079673132,
+        "stop" : 1677079687731,
+        "duration" : 14599
+      }
+    }, {
+      "uid" : "744160e9a3426642",
+      "status" : "passed",
+      "time" : {
+        "start" : 1677078073633,
+        "stop" : 1677078087968,
+        "duration" : 14335
+      }
+    }, {
+      "uid" : "3105f65f346a649f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1677078054655,
+        "stop" : 1677078068831,
+        "duration" : 14176
+      }
+    }, {
+      "uid" : "2002d3cb12c3b9aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1677072861467,
+        "stop" : 1677072875866,
+        "duration" : 14399
+      }
+    }, {
+      "uid" : "cd4dde319901bc4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1677072842543,
+        "stop" : 1677072856667,
+        "duration" : 14124
+      }
+    }, {
+      "uid" : "2e0de74d8d981c54",
+      "status" : "passed",
+      "time" : {
+        "start" : 1677071723456,
+        "stop" : 1677071737668,
+        "duration" : 14212
+      }
+    }, {
+      "uid" : "b193b4581c59580b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1677071703862,
+        "stop" : 1677071718353,
+        "duration" : 14491
+      }
+    }, {
+      "uid" : "ba01270111f921bb",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[@class='nH2e6W0']\"}\n  (Session info: chrome=110.0.5481.104)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.1.4', revision: '535d840ee2'\nSystem info: host: 'DESKTOP-S34RN4U', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [e15685cf33af6f87cb698c6f5c28b800, findElement {using=xpath, value=//a[@class='nH2e6W0']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.104, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\\Users\\Igor\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:57958}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57958/devtoo..., se:cdpVersion: 110.0.5481.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: e15685cf33af6f87cb698c6f5c28b800",
+      "time" : {
+        "start" : 1677069768470,
+        "stop" : 1677069799665,
+        "duration" : 31195
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2fe7131fc8157f4b.json",
+  "parameterValues" : [ ]
+}

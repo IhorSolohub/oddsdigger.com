@@ -1,0 +1,237 @@
+{
+  "uid" : "f02f3df0b1b0dc4f",
+  "name" : "showMoreTipsAndNewsTest",
+  "fullName" : "tests.main.MainTest.showMoreTipsAndNewsTest",
+  "historyId" : "d8b41e6cd70f87f629bfce1892b0343c",
+  "time" : {
+    "start" : 1677268048259,
+    "stop" : 1677268071332,
+    "duration" : 23073
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1677268042787,
+      "stop" : 1677268048252,
+      "duration" : 5465
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "clearCookiesAndExit",
+    "time" : {
+      "start" : 1677268071335,
+      "stop" : 1677268071572,
+      "duration" : 237
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.main.MainTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.main.MainTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "showMoreTipsAndNewsTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "oddsdigger.com"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.main.MainTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-S34RN4U"
+  }, {
+    "name" : "thread",
+    "value" : "24392@DESKTOP-S34RN4U.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e80c13a900ea8432",
+      "status" : "passed",
+      "time" : {
+        "start" : 1677268019540,
+        "stop" : 1677268042524,
+        "duration" : 22984
+      }
+    }, {
+      "uid" : "596a560af1bfbab5",
+      "status" : "skipped",
+      "statusDetails" : "java.util.concurrent.TimeoutException\nBuild info: version: '4.1.4', revision: '535d840ee2'\nSystem info: host: 'DESKTOP-S34RN4U', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2f7fe1c43c77c50786ac7e2328d43dd, close {}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.104, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\\Users\\Igor\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59075}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59075/devtoo..., se:cdpVersion: 110.0.5481.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: d2f7fe1c43c77c50786ac7e2328d43dd",
+      "time" : {
+        "start" : 1677085375735,
+        "stop" : 1677085375735,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "4bef9fcbe51946bc",
+      "status" : "skipped",
+      "statusDetails" : "java.util.concurrent.TimeoutException\nBuild info: version: '4.1.4', revision: '535d840ee2'\nSystem info: host: 'DESKTOP-S34RN4U', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2f7fe1c43c77c50786ac7e2328d43dd, close {}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.104, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\\Users\\Igor\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59075}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59075/devtoo..., se:cdpVersion: 110.0.5481.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: d2f7fe1c43c77c50786ac7e2328d43dd",
+      "time" : {
+        "start" : 1677085375728,
+        "stop" : 1677085375728,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e760d1908937654b",
+      "status" : "failed",
+      "statusDetails" : "expected [0] but found [2]",
+      "time" : {
+        "start" : 1677084532279,
+        "stop" : 1677084614844,
+        "duration" : 82565
+      }
+    }, {
+      "uid" : "8468e2d4a4e2c38f",
+      "status" : "skipped",
+      "statusDetails" : "invalid session id\nBuild info: version: '4.1.4', revision: '535d840ee2'\nSystem info: host: 'DESKTOP-S34RN4U', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [4718d548c1307d2153990516eb96f45e, close {}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.104, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\\Users\\Igor\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:54953}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54953/devtoo..., se:cdpVersion: 110.0.5481.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 4718d548c1307d2153990516eb96f45e",
+      "time" : {
+        "start" : 1677081980353,
+        "stop" : 1677081980353,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "aa65d9fef1ff2093",
+      "status" : "skipped",
+      "statusDetails" : "invalid session id\nBuild info: version: '4.1.4', revision: '535d840ee2'\nSystem info: host: 'DESKTOP-S34RN4U', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [4718d548c1307d2153990516eb96f45e, close {}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.104, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\\Users\\Igor\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:54953}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54953/devtoo..., se:cdpVersion: 110.0.5481.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 4718d548c1307d2153990516eb96f45e",
+      "time" : {
+        "start" : 1677081980345,
+        "stop" : 1677081980346,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "372068d600eb54fd",
+      "status" : "skipped",
+      "statusDetails" : "invalid session id\nBuild info: version: '4.1.4', revision: '535d840ee2'\nSystem info: host: 'DESKTOP-S34RN4U', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [18eb4f6c0bd576b0896b6ae1d4a58955, close {}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.104, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\\Users\\Igor\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:51920}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51920/devtoo..., se:cdpVersion: 110.0.5481.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 18eb4f6c0bd576b0896b6ae1d4a58955",
+      "time" : {
+        "start" : 1677079829275,
+        "stop" : 1677079829275,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "2371de142da19d53",
+      "status" : "skipped",
+      "statusDetails" : "invalid session id\nBuild info: version: '4.1.4', revision: '535d840ee2'\nSystem info: host: 'DESKTOP-S34RN4U', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [18eb4f6c0bd576b0896b6ae1d4a58955, close {}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.104, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\\Users\\Igor\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:51920}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51920/devtoo..., se:cdpVersion: 110.0.5481.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 18eb4f6c0bd576b0896b6ae1d4a58955",
+      "time" : {
+        "start" : 1677079829269,
+        "stop" : 1677079829269,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ee1d4bc4542b49a2",
+      "status" : "skipped",
+      "statusDetails" : "invalid session id\nBuild info: version: '4.1.4', revision: '535d840ee2'\nSystem info: host: 'DESKTOP-S34RN4U', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [5669205bb159c4084d2ca7292f018743, close {}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.104, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\\Users\\Igor\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:49977}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49977/devtoo..., se:cdpVersion: 110.0.5481.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 5669205bb159c4084d2ca7292f018743",
+      "time" : {
+        "start" : 1677078204762,
+        "stop" : 1677078204762,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "29fa2b7b400947ee",
+      "status" : "skipped",
+      "statusDetails" : "invalid session id\nBuild info: version: '4.1.4', revision: '535d840ee2'\nSystem info: host: 'DESKTOP-S34RN4U', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [5669205bb159c4084d2ca7292f018743, close {}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.104, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\\Users\\Igor\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:49977}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49977/devtoo..., se:cdpVersion: 110.0.5481.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 5669205bb159c4084d2ca7292f018743",
+      "time" : {
+        "start" : 1677078204754,
+        "stop" : 1677078204754,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "408cd17c3f01b154",
+      "status" : "skipped",
+      "statusDetails" : "invalid session id\nBuild info: version: '4.1.4', revision: '535d840ee2'\nSystem info: host: 'DESKTOP-S34RN4U', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [f08a602202210e64a0757784556c9945, deleteAllCookies {}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.104, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\\Users\\Igor\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:62069}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62069/devtoo..., se:cdpVersion: 110.0.5481.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: f08a602202210e64a0757784556c9945",
+      "time" : {
+        "start" : 1677072994541,
+        "stop" : 1677072994541,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "6cde1195be996c20",
+      "status" : "skipped",
+      "statusDetails" : "invalid session id\nBuild info: version: '4.1.4', revision: '535d840ee2'\nSystem info: host: 'DESKTOP-S34RN4U', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [f08a602202210e64a0757784556c9945, deleteAllCookies {}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.104, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\\Users\\Igor\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:62069}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62069/devtoo..., se:cdpVersion: 110.0.5481.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: f08a602202210e64a0757784556c9945",
+      "time" : {
+        "start" : 1677072994534,
+        "stop" : 1677072994534,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5bd5333640547035",
+      "status" : "skipped",
+      "statusDetails" : "invalid session id\nBuild info: version: '4.1.4', revision: '535d840ee2'\nSystem info: host: 'DESKTOP-S34RN4U', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [98a393b3008e946939425221f24a793d, deleteAllCookies {}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.104, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\\Users\\Igor\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60447}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60447/devtoo..., se:cdpVersion: 110.0.5481.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 98a393b3008e946939425221f24a793d",
+      "time" : {
+        "start" : 1677071883043,
+        "stop" : 1677071883043,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "4cb2bf38a2bd3d15",
+      "status" : "skipped",
+      "statusDetails" : "invalid session id\nBuild info: version: '4.1.4', revision: '535d840ee2'\nSystem info: host: 'DESKTOP-S34RN4U', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [98a393b3008e946939425221f24a793d, deleteAllCookies {}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.104, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\\Users\\Igor\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60447}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60447/devtoo..., se:cdpVersion: 110.0.5481.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 98a393b3008e946939425221f24a793d",
+      "time" : {
+        "start" : 1677071883035,
+        "stop" : 1677071883035,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "849cc165eafdbd0d",
+      "status" : "skipped",
+      "statusDetails" : "invalid session id\nBuild info: version: '4.1.4', revision: '535d840ee2'\nSystem info: host: 'DESKTOP-S34RN4U', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d68019809daef7c7b0c3d7e38203ae0b, deleteAllCookies {}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.104, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\\Users\\Igor\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:58271}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58271/devtoo..., se:cdpVersion: 110.0.5481.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: d68019809daef7c7b0c3d7e38203ae0b",
+      "time" : {
+        "start" : 1677070221025,
+        "stop" : 1677070221026,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "4cbc0b37f7905618",
+      "status" : "skipped",
+      "statusDetails" : "invalid session id\nBuild info: version: '4.1.4', revision: '535d840ee2'\nSystem info: host: 'DESKTOP-S34RN4U', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d68019809daef7c7b0c3d7e38203ae0b, deleteAllCookies {}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.104, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\\Users\\Igor\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:58271}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58271/devtoo..., se:cdpVersion: 110.0.5481.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: d68019809daef7c7b0c3d7e38203ae0b",
+      "time" : {
+        "start" : 1677070220913,
+        "stop" : 1677070220913,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f02f3df0b1b0dc4f.json",
+  "parameterValues" : [ ]
+}

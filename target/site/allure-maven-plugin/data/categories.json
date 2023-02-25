@@ -1,0 +1,43 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "java.util.concurrent.TimeoutException\nBuild info: version: '4.1.4', revision: '535d840ee2'\nSystem info: host: 'DESKTOP-S34RN4U', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2f7fe1c43c77c50786ac7e2328d43dd, close {}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.104, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\\Users\\Igor\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59075}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59075/devtoo..., se:cdpVersion: 110.0.5481.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: d2f7fe1c43c77c50786ac7e2328d43dd",
+      "children" : [ {
+        "name" : "clearCookiesAndExit",
+        "uid" : "761da1d21a5887a8",
+        "parentUid" : "875115c1a2f26976080dbed319161735",
+        "status" : "broken",
+        "time" : {
+          "start" : 1677085375460,
+          "stop" : 1677085375461,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "875115c1a2f26976080dbed319161735"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"(//a[@class='c-header__nav'])[4]\"}\n  (Session info: chrome=110.0.5481.104)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.1.4', revision: '535d840ee2'\nSystem info: host: 'DESKTOP-S34RN4U', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [c5e8d09416482534d8cfdf85226a3800, findElement {using=xpath, value=(//a[@class='c-header__nav'])[4]}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.104, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\\Users\\Igor\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:50393}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50393/devtoo..., se:cdpVersion: 110.0.5481.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: c5e8d09416482534d8cfdf85226a3800",
+      "children" : [ {
+        "name" : "headerButtonsTest",
+        "uid" : "5939730bf897d9c9",
+        "parentUid" : "d177ac9828565be1078478609f8303c5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1677266760306,
+          "stop" : 1677266900432,
+          "duration" : 140126
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d177ac9828565be1078478609f8303c5"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

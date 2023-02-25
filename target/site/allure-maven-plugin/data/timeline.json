@@ -1,0 +1,2504 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-S34RN4U",
+    "children" : [ {
+      "name" : "16708@DESKTOP-S34RN4U.main(1)",
+      "children" : [ {
+        "name" : "regButtonsOnTextTest",
+        "uid" : "2a47416485884094",
+        "parentUid" : "cbfbaad553f4377333722ed0d98c0904",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677079829255,
+          "stop" : 1677079829255,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "headerButtonsTest",
+        "uid" : "be2fda734e8a5a16",
+        "parentUid" : "cbfbaad553f4377333722ed0d98c0904",
+        "status" : "broken",
+        "time" : {
+          "start" : 1677079581687,
+          "stop" : 1677079613850,
+          "duration" : 32163
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "clearCookiesAndExit",
+        "uid" : "dcec9f09ac1448e3",
+        "parentUid" : "cbfbaad553f4377333722ed0d98c0904",
+        "status" : "broken",
+        "time" : {
+          "start" : 1677079829180,
+          "stop" : 1677079829180,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "showMoreTipsAndNewsTest",
+        "uid" : "2371de142da19d53",
+        "parentUid" : "cbfbaad553f4377333722ed0d98c0904",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677079829269,
+          "stop" : 1677079829269,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerButtonsTest",
+        "uid" : "8cd4c192e107661d",
+        "parentUid" : "cbfbaad553f4377333722ed0d98c0904",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677079307821,
+          "stop" : 1677079539915,
+          "duration" : 232094
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "bettingTipsButtonTest",
+        "uid" : "38befe682fb51ef5",
+        "parentUid" : "cbfbaad553f4377333722ed0d98c0904",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677079008124,
+          "stop" : 1677079034885,
+          "duration" : 26761
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "allOddsButtonTest",
+        "uid" : "c1e57d14de261307",
+        "parentUid" : "cbfbaad553f4377333722ed0d98c0904",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677078959202,
+          "stop" : 1677078972419,
+          "duration" : 13217
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "newsButtonTest",
+        "uid" : "aa6863f6b5f692a4",
+        "parentUid" : "cbfbaad553f4377333722ed0d98c0904",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677079750229,
+          "stop" : 1677079777756,
+          "duration" : 27527
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "allOddsButtonTest",
+        "uid" : "908bf2868690e013",
+        "parentUid" : "cbfbaad553f4377333722ed0d98c0904",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677078936672,
+          "stop" : 1677078949884,
+          "duration" : 13212
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonsOnMiniBannersTest",
+        "uid" : "414b83983022b0d4",
+        "parentUid" : "cbfbaad553f4377333722ed0d98c0904",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677079829211,
+          "stop" : 1677079829212,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "newsButtonTest",
+        "uid" : "42dc97e1e79be377",
+        "parentUid" : "cbfbaad553f4377333722ed0d98c0904",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677079717917,
+          "stop" : 1677079745094,
+          "duration" : 27177
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "mainLogoLinkTest",
+        "uid" : "918dc9d3a6592faf",
+        "parentUid" : "cbfbaad553f4377333722ed0d98c0904",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677079673132,
+          "stop" : 1677079687731,
+          "duration" : 14599
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonsOnTextTest",
+        "uid" : "ba8f15e56671174a",
+        "parentUid" : "cbfbaad553f4377333722ed0d98c0904",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677079829261,
+          "stop" : 1677079829261,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "mainLogoLinkTest",
+        "uid" : "71eecd436bd67807",
+        "parentUid" : "cbfbaad553f4377333722ed0d98c0904",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677079692409,
+          "stop" : 1677079706472,
+          "duration" : 14063
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "showMoreTipsAndNewsTest",
+        "uid" : "372068d600eb54fd",
+        "parentUid" : "cbfbaad553f4377333722ed0d98c0904",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677079829275,
+          "stop" : 1677079829275,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonsOnMiniBannersTest",
+        "uid" : "13abac1993e9b663",
+        "parentUid" : "cbfbaad553f4377333722ed0d98c0904",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677079829247,
+          "stop" : 1677079829248,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "bettingTipsButtonTest",
+        "uid" : "81e90549fb823990",
+        "parentUid" : "cbfbaad553f4377333722ed0d98c0904",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677078977042,
+          "stop" : 1677079003441,
+          "duration" : 26399
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerButtonsTest",
+        "uid" : "f924a8a70d23710f",
+        "parentUid" : "cbfbaad553f4377333722ed0d98c0904",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677079039476,
+          "stop" : 1677079302899,
+          "duration" : 263423
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "inPlayBetButtonTest",
+        "uid" : "c4ce0784a6fc24b5",
+        "parentUid" : "cbfbaad553f4377333722ed0d98c0904",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677079644081,
+          "stop" : 1677079661011,
+          "duration" : 16930
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonOnBannersTest",
+        "uid" : "dfd44ec22be1247c",
+        "parentUid" : "cbfbaad553f4377333722ed0d98c0904",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677079829188,
+          "stop" : 1677079829188,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "inPlayBetButtonTest",
+        "uid" : "caa440da6d94a1e2",
+        "parentUid" : "cbfbaad553f4377333722ed0d98c0904",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677079618615,
+          "stop" : 1677079631803,
+          "duration" : 13188
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cbfbaad553f4377333722ed0d98c0904"
+    }, {
+      "name" : "11480@DESKTOP-S34RN4U.main(1)",
+      "children" : [ {
+        "name" : "allOddsButtonTest",
+        "uid" : "ee89c0e2d8735e48",
+        "parentUid" : "c9b05fecd4c14eb67aabff23e6dc644f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677077367348,
+          "stop" : 1677077380731,
+          "duration" : 13383
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonsOnTextTest",
+        "uid" : "808f226de7bcbf8c",
+        "parentUid" : "c9b05fecd4c14eb67aabff23e6dc644f",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677078204741,
+          "stop" : 1677078204741,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "headerButtonsTest",
+        "uid" : "6b6eed28a2d7e408",
+        "parentUid" : "c9b05fecd4c14eb67aabff23e6dc644f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1677077980081,
+          "stop" : 1677078012225,
+          "duration" : 32144
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "inPlayBetButtonTest",
+        "uid" : "b148e6c9593f44dd",
+        "parentUid" : "c9b05fecd4c14eb67aabff23e6dc644f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677078017775,
+          "stop" : 1677078031056,
+          "duration" : 13281
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "mainLogoLinkTest",
+        "uid" : "744160e9a3426642",
+        "parentUid" : "c9b05fecd4c14eb67aabff23e6dc644f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677078073633,
+          "stop" : 1677078087968,
+          "duration" : 14335
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonsOnTextTest",
+        "uid" : "8bdb773bbf08c45",
+        "parentUid" : "c9b05fecd4c14eb67aabff23e6dc644f",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677078204747,
+          "stop" : 1677078204747,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "newsButtonTest",
+        "uid" : "3e8d2f0cbb1bcf3f",
+        "parentUid" : "c9b05fecd4c14eb67aabff23e6dc644f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677078094381,
+          "stop" : 1677078122123,
+          "duration" : 27742
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerButtonsTest",
+        "uid" : "575bb73ed5fa95a9",
+        "parentUid" : "c9b05fecd4c14eb67aabff23e6dc644f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677077449370,
+          "stop" : 1677077677166,
+          "duration" : 227796
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "showMoreTipsAndNewsTest",
+        "uid" : "ee1d4bc4542b49a2",
+        "parentUid" : "c9b05fecd4c14eb67aabff23e6dc644f",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677078204762,
+          "stop" : 1677078204762,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonsOnMiniBannersTest",
+        "uid" : "c9798e44b55ce98b",
+        "parentUid" : "c9b05fecd4c14eb67aabff23e6dc644f",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677078204735,
+          "stop" : 1677078204735,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "allOddsButtonTest",
+        "uid" : "ffb53ae6c23ce408",
+        "parentUid" : "c9b05fecd4c14eb67aabff23e6dc644f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677077349229,
+          "stop" : 1677077362501,
+          "duration" : 13272
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "bettingTipsButtonTest",
+        "uid" : "e45956a2345466ad",
+        "parentUid" : "c9b05fecd4c14eb67aabff23e6dc644f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677077418035,
+          "stop" : 1677077444615,
+          "duration" : 26580
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "mainLogoLinkTest",
+        "uid" : "3105f65f346a649f",
+        "parentUid" : "c9b05fecd4c14eb67aabff23e6dc644f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677078054655,
+          "stop" : 1677078068831,
+          "duration" : 14176
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "clearCookiesAndExit",
+        "uid" : "f0a69d154eae08e2",
+        "parentUid" : "c9b05fecd4c14eb67aabff23e6dc644f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1677078204669,
+          "stop" : 1677078204669,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonsOnMiniBannersTest",
+        "uid" : "3189a34a15b63234",
+        "parentUid" : "c9b05fecd4c14eb67aabff23e6dc644f",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677078204703,
+          "stop" : 1677078204704,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "showMoreTipsAndNewsTest",
+        "uid" : "29fa2b7b400947ee",
+        "parentUid" : "c9b05fecd4c14eb67aabff23e6dc644f",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677078204754,
+          "stop" : 1677078204754,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "bettingTipsButtonTest",
+        "uid" : "71582377e7088760",
+        "parentUid" : "c9b05fecd4c14eb67aabff23e6dc644f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677077385656,
+          "stop" : 1677077413133,
+          "duration" : 27477
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "newsButtonTest",
+        "uid" : "a056c43ec9b167eb",
+        "parentUid" : "c9b05fecd4c14eb67aabff23e6dc644f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677078127020,
+          "stop" : 1677078153528,
+          "duration" : 26508
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "inPlayBetButtonTest",
+        "uid" : "6092bdf92559412",
+        "parentUid" : "c9b05fecd4c14eb67aabff23e6dc644f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677078036480,
+          "stop" : 1677078049712,
+          "duration" : 13232
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonOnBannersTest",
+        "uid" : "7aae1677a3da750f",
+        "parentUid" : "c9b05fecd4c14eb67aabff23e6dc644f",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677078204677,
+          "stop" : 1677078204678,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerButtonsTest",
+        "uid" : "ea3fdb1e3460cb28",
+        "parentUid" : "c9b05fecd4c14eb67aabff23e6dc644f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677077683451,
+          "stop" : 1677077937382,
+          "duration" : 253931
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c9b05fecd4c14eb67aabff23e6dc644f"
+    }, {
+      "name" : "13524@DESKTOP-S34RN4U.main(1)",
+      "children" : [ {
+        "name" : "clearCookiesAndExit",
+        "uid" : "b523b43e408fe1bd",
+        "parentUid" : "756dc0464d2ef3b461c4bb8b9511e284",
+        "status" : "broken",
+        "time" : {
+          "start" : 1677070220710,
+          "stop" : 1677070220712,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "inPlayBetButtonTest",
+        "uid" : "36408d83e8d92b6b",
+        "parentUid" : "756dc0464d2ef3b461c4bb8b9511e284",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677069708297,
+          "stop" : 1677069725688,
+          "duration" : 17391
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "showMoreTipsAndNewsTest",
+        "uid" : "849cc165eafdbd0d",
+        "parentUid" : "756dc0464d2ef3b461c4bb8b9511e284",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677070221025,
+          "stop" : 1677070221026,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonsOnMiniBannersTest",
+        "uid" : "95ae75abb9e18380",
+        "parentUid" : "756dc0464d2ef3b461c4bb8b9511e284",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677070220811,
+          "stop" : 1677070220812,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "mainLogoLinkTest",
+        "uid" : "ba01270111f921bb",
+        "parentUid" : "756dc0464d2ef3b461c4bb8b9511e284",
+        "status" : "broken",
+        "time" : {
+          "start" : 1677069768470,
+          "stop" : 1677069799665,
+          "duration" : 31195
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonsOnMiniBannersTest",
+        "uid" : "6e82513c5282960e",
+        "parentUid" : "756dc0464d2ef3b461c4bb8b9511e284",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677070220793,
+          "stop" : 1677070220794,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "allOddsButtonTest",
+        "uid" : "b33ebf3f8d78647b",
+        "parentUid" : "756dc0464d2ef3b461c4bb8b9511e284",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677066623575,
+          "stop" : 1677066637191,
+          "duration" : 13616
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "showMoreTipsAndNewsTest",
+        "uid" : "4cbc0b37f7905618",
+        "parentUid" : "756dc0464d2ef3b461c4bb8b9511e284",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677070220913,
+          "stop" : 1677070220913,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "allOddsButtonTest",
+        "uid" : "7892e1faf31ef6c",
+        "parentUid" : "756dc0464d2ef3b461c4bb8b9511e284",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677066642819,
+          "stop" : 1677066656259,
+          "duration" : 13440
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "headerButtonsTest",
+        "uid" : "a977deccf4aa2685",
+        "parentUid" : "756dc0464d2ef3b461c4bb8b9511e284",
+        "status" : "broken",
+        "time" : {
+          "start" : 1677069631342,
+          "stop" : 1677069662581,
+          "duration" : 31239
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerButtonsTest",
+        "uid" : "5e010e5f075f4b8c",
+        "parentUid" : "756dc0464d2ef3b461c4bb8b9511e284",
+        "status" : "broken",
+        "time" : {
+          "start" : 1677068260911,
+          "stop" : 1677069587734,
+          "duration" : 1326823
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "bettingTipsButtonTest",
+        "uid" : "95b909185138bf4b",
+        "parentUid" : "756dc0464d2ef3b461c4bb8b9511e284",
+        "status" : "failed",
+        "time" : {
+          "start" : 1677066787383,
+          "stop" : 1677066907852,
+          "duration" : 120469
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "inPlayBetButtonTest",
+        "uid" : "a22194ee1f373e0c",
+        "parentUid" : "756dc0464d2ef3b461c4bb8b9511e284",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677069676530,
+          "stop" : 1677069693791,
+          "duration" : 17261
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonsOnTextTest",
+        "uid" : "a1fad472ac610312",
+        "parentUid" : "756dc0464d2ef3b461c4bb8b9511e284",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677070220843,
+          "stop" : 1677070220844,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "newsButtonTest",
+        "uid" : "24427296461be27d",
+        "parentUid" : "756dc0464d2ef3b461c4bb8b9511e284",
+        "status" : "failed",
+        "time" : {
+          "start" : 1677069943193,
+          "stop" : 1677070075825,
+          "duration" : 132632
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonsOnTextTest",
+        "uid" : "f2dc193705873c06",
+        "parentUid" : "756dc0464d2ef3b461c4bb8b9511e284",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677070220828,
+          "stop" : 1677070220829,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonOnBannersTest",
+        "uid" : "62d4e1d79467ef3c",
+        "parentUid" : "756dc0464d2ef3b461c4bb8b9511e284",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677070220773,
+          "stop" : 1677070220774,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "756dc0464d2ef3b461c4bb8b9511e284"
+    }, {
+      "name" : "20808@DESKTOP-S34RN4U.main(1)",
+      "children" : [ {
+        "name" : "bettingTipsButtonTest",
+        "uid" : "889e7cbde88576db",
+        "parentUid" : "66b84909940a0dcfbb4b0c9c45178e49",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677084877753,
+          "stop" : 1677084904896,
+          "duration" : 27143
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "showMoreTipsAndNewsTest",
+        "uid" : "596a560af1bfbab5",
+        "parentUid" : "66b84909940a0dcfbb4b0c9c45178e49",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677085375735,
+          "stop" : 1677085375735,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "allOddsButtonTest",
+        "uid" : "e70ac540b71fbf9d",
+        "parentUid" : "66b84909940a0dcfbb4b0c9c45178e49",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677084841419,
+          "stop" : 1677084854723,
+          "duration" : 13304
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "newsButtonTest",
+        "uid" : "a06588aa7879e3de",
+        "parentUid" : "66b84909940a0dcfbb4b0c9c45178e49",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677085375626,
+          "stop" : 1677085375627,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonsOnMiniBannersTest",
+        "uid" : "679411c82cec5af",
+        "parentUid" : "66b84909940a0dcfbb4b0c9c45178e49",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677085375705,
+          "stop" : 1677085375705,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonsOnTextTest",
+        "uid" : "b8f952457cc02d93",
+        "parentUid" : "66b84909940a0dcfbb4b0c9c45178e49",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677085375720,
+          "stop" : 1677085375720,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "inPlayBetButtonTest",
+        "uid" : "f4060f14a40cd50c",
+        "parentUid" : "66b84909940a0dcfbb4b0c9c45178e49",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677085375592,
+          "stop" : 1677085375592,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerButtonsTest",
+        "uid" : "fee7b3d2ea453c83",
+        "parentUid" : "66b84909940a0dcfbb4b0c9c45178e49",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677085375532,
+          "stop" : 1677085375533,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "headerButtonsTest",
+        "uid" : "dcd41d72d2b6fb1f",
+        "parentUid" : "66b84909940a0dcfbb4b0c9c45178e49",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677085375547,
+          "stop" : 1677085375547,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonsOnMiniBannersTest",
+        "uid" : "48788a261043e2e8",
+        "parentUid" : "66b84909940a0dcfbb4b0c9c45178e49",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677085375671,
+          "stop" : 1677085375671,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "headerButtonsTest",
+        "uid" : "b3e4246c59874e14",
+        "parentUid" : "66b84909940a0dcfbb4b0c9c45178e49",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677085375540,
+          "stop" : 1677085375541,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "clearCookiesAndExit",
+        "uid" : "761da1d21a5887a8",
+        "parentUid" : "66b84909940a0dcfbb4b0c9c45178e49",
+        "status" : "broken",
+        "time" : {
+          "start" : 1677085375460,
+          "stop" : 1677085375461,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "mainLogoLinkTest",
+        "uid" : "2966514760ab753b",
+        "parentUid" : "66b84909940a0dcfbb4b0c9c45178e49",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677085375617,
+          "stop" : 1677085375617,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "inPlayBetButtonTest",
+        "uid" : "6239268889888e94",
+        "parentUid" : "66b84909940a0dcfbb4b0c9c45178e49",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677085375600,
+          "stop" : 1677085375601,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "allOddsButtonTest",
+        "uid" : "7e67dc8a1cd36c10",
+        "parentUid" : "66b84909940a0dcfbb4b0c9c45178e49",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677084859528,
+          "stop" : 1677084872890,
+          "duration" : 13362
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonOnBannersTest",
+        "uid" : "3bba9b15cf91758e",
+        "parentUid" : "66b84909940a0dcfbb4b0c9c45178e49",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677085375643,
+          "stop" : 1677085375643,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "bettingTipsButtonTest",
+        "uid" : "c6d3525be11e6a6b",
+        "parentUid" : "66b84909940a0dcfbb4b0c9c45178e49",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677084909900,
+          "stop" : 1677084937079,
+          "duration" : 27179
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "showMoreTipsAndNewsTest",
+        "uid" : "4bef9fcbe51946bc",
+        "parentUid" : "66b84909940a0dcfbb4b0c9c45178e49",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677085375728,
+          "stop" : 1677085375728,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonsOnTextTest",
+        "uid" : "a887b922c4d1cdba",
+        "parentUid" : "66b84909940a0dcfbb4b0c9c45178e49",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677085375713,
+          "stop" : 1677085375713,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "newsButtonTest",
+        "uid" : "bbf5f1fd9986370",
+        "parentUid" : "66b84909940a0dcfbb4b0c9c45178e49",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677085375634,
+          "stop" : 1677085375635,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "mainLogoLinkTest",
+        "uid" : "1680629a71a794ad",
+        "parentUid" : "66b84909940a0dcfbb4b0c9c45178e49",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677085375609,
+          "stop" : 1677085375609,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "66b84909940a0dcfbb4b0c9c45178e49"
+    }, {
+      "name" : "18136@DESKTOP-S34RN4U.main(1)",
+      "children" : [ {
+        "name" : "allOddsButtonTest",
+        "uid" : "785d7f6b99dfdf77",
+        "parentUid" : "cc7e9c6f470b04df554bb3cfdd2f7806",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677080810076,
+          "stop" : 1677080823275,
+          "duration" : 13199
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "headerButtonsTest",
+        "uid" : "fc35985c77da6f00",
+        "parentUid" : "cc7e9c6f470b04df554bb3cfdd2f7806",
+        "status" : "broken",
+        "time" : {
+          "start" : 1677081472408,
+          "stop" : 1677081504502,
+          "duration" : 32094
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "newsButtonTest",
+        "uid" : "f11f51ff66bd778",
+        "parentUid" : "cc7e9c6f470b04df554bb3cfdd2f7806",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677081619874,
+          "stop" : 1677081647405,
+          "duration" : 27531
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "clearCookiesAndExit",
+        "uid" : "1ec38434846eaf78",
+        "parentUid" : "cc7e9c6f470b04df554bb3cfdd2f7806",
+        "status" : "broken",
+        "time" : {
+          "start" : 1677081980289,
+          "stop" : 1677081980290,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "bettingTipsButtonTest",
+        "uid" : "86596e21a6a10b8a",
+        "parentUid" : "cc7e9c6f470b04df554bb3cfdd2f7806",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677080848183,
+          "stop" : 1677080875344,
+          "duration" : 27161
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "newsButtonTest",
+        "uid" : "c397e93186a6f640",
+        "parentUid" : "cc7e9c6f470b04df554bb3cfdd2f7806",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677081584537,
+          "stop" : 1677081614646,
+          "duration" : 30109
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "inPlayBetButtonTest",
+        "uid" : "4e1a796a8fbe774",
+        "parentUid" : "cc7e9c6f470b04df554bb3cfdd2f7806",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677081509470,
+          "stop" : 1677081522684,
+          "duration" : 13214
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonsOnTextTest",
+        "uid" : "f2760b2e957f8764",
+        "parentUid" : "cc7e9c6f470b04df554bb3cfdd2f7806",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677081980338,
+          "stop" : 1677081980338,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "showMoreTipsAndNewsTest",
+        "uid" : "aa65d9fef1ff2093",
+        "parentUid" : "cc7e9c6f470b04df554bb3cfdd2f7806",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677081980345,
+          "stop" : 1677081980346,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "bettingTipsButtonTest",
+        "uid" : "f3b68a9c3f757899",
+        "parentUid" : "cc7e9c6f470b04df554bb3cfdd2f7806",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677080880084,
+          "stop" : 1677080906839,
+          "duration" : 26755
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerButtonsTest",
+        "uid" : "a7c26f6264032b82",
+        "parentUid" : "cc7e9c6f470b04df554bb3cfdd2f7806",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677080911631,
+          "stop" : 1677081160357,
+          "duration" : 248726
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonOnBannersTest",
+        "uid" : "5c6f9621c978c9d3",
+        "parentUid" : "cc7e9c6f470b04df554bb3cfdd2f7806",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677081652561,
+          "stop" : 1677081736528,
+          "duration" : 83967
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "showMoreTipsAndNewsTest",
+        "uid" : "8468e2d4a4e2c38f",
+        "parentUid" : "cc7e9c6f470b04df554bb3cfdd2f7806",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677081980353,
+          "stop" : 1677081980353,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "mainLogoLinkTest",
+        "uid" : "bfebc5e2658e5e97",
+        "parentUid" : "cc7e9c6f470b04df554bb3cfdd2f7806",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677081565172,
+          "stop" : 1677081579543,
+          "duration" : 14371
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "mainLogoLinkTest",
+        "uid" : "e62b51d41d5c8005",
+        "parentUid" : "cc7e9c6f470b04df554bb3cfdd2f7806",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677081546297,
+          "stop" : 1677081560400,
+          "duration" : 14103
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonsOnMiniBannersTest",
+        "uid" : "f16721d253d3fcb9",
+        "parentUid" : "cc7e9c6f470b04df554bb3cfdd2f7806",
+        "status" : "broken",
+        "time" : {
+          "start" : 1677081822534,
+          "stop" : 1677081897975,
+          "duration" : 75441
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "allOddsButtonTest",
+        "uid" : "803df850a0ed4eb8",
+        "parentUid" : "cc7e9c6f470b04df554bb3cfdd2f7806",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677080829693,
+          "stop" : 1677080843286,
+          "duration" : 13593
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "inPlayBetButtonTest",
+        "uid" : "e710e20acf5b816b",
+        "parentUid" : "cc7e9c6f470b04df554bb3cfdd2f7806",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677081527583,
+          "stop" : 1677081540737,
+          "duration" : 13154
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerButtonsTest",
+        "uid" : "a8eda335b18c20aa",
+        "parentUid" : "cc7e9c6f470b04df554bb3cfdd2f7806",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677081165420,
+          "stop" : 1677081428909,
+          "duration" : 263489
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cc7e9c6f470b04df554bb3cfdd2f7806"
+    }, {
+      "name" : "20404@DESKTOP-S34RN4U.main(1)",
+      "children" : [ {
+        "name" : "regButtonsOnMiniBannersTest",
+        "uid" : "b163897c4130222f",
+        "parentUid" : "52ac403f952abd00cf4c2bedf1372319",
+        "status" : "broken",
+        "time" : {
+          "start" : 1677083378905,
+          "stop" : 1677083454364,
+          "duration" : 75459
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "mainLogoLinkTest",
+        "uid" : "13ffad61122dad3a",
+        "parentUid" : "52ac403f952abd00cf4c2bedf1372319",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677083058857,
+          "stop" : 1677083073117,
+          "duration" : 14260
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerButtonsTest",
+        "uid" : "ea2b3e867d9e7e22",
+        "parentUid" : "52ac403f952abd00cf4c2bedf1372319",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677082431005,
+          "stop" : 1677082669403,
+          "duration" : 238398
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "inPlayBetButtonTest",
+        "uid" : "225f0a4d77fc6421",
+        "parentUid" : "52ac403f952abd00cf4c2bedf1372319",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677082991630,
+          "stop" : 1677083004945,
+          "duration" : 13315
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "mainLogoLinkTest",
+        "uid" : "d30da7539d63dfd2",
+        "parentUid" : "52ac403f952abd00cf4c2bedf1372319",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677083039743,
+          "stop" : 1677083053904,
+          "duration" : 14161
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "newsButtonTest",
+        "uid" : "831bd4ea2a9a3ce0",
+        "parentUid" : "52ac403f952abd00cf4c2bedf1372319",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677083112028,
+          "stop" : 1677083138965,
+          "duration" : 26937
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerButtonsTest",
+        "uid" : "6158cf73f3386d3d",
+        "parentUid" : "52ac403f952abd00cf4c2bedf1372319",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677082674512,
+          "stop" : 1677082912007,
+          "duration" : 237495
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "newsButtonTest",
+        "uid" : "5fd122bd92e5bd95",
+        "parentUid" : "52ac403f952abd00cf4c2bedf1372319",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677083079601,
+          "stop" : 1677083107040,
+          "duration" : 27439
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "headerButtonsTest",
+        "uid" : "e759b803fee5331a",
+        "parentUid" : "52ac403f952abd00cf4c2bedf1372319",
+        "status" : "broken",
+        "time" : {
+          "start" : 1677082954147,
+          "stop" : 1677082986300,
+          "duration" : 32153
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "bettingTipsButtonTest",
+        "uid" : "8a2477f890fcb54f",
+        "parentUid" : "52ac403f952abd00cf4c2bedf1372319",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677082399171,
+          "stop" : 1677082425634,
+          "duration" : 26463
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonOnBannersTest",
+        "uid" : "ec9bb9365a942399",
+        "parentUid" : "52ac403f952abd00cf4c2bedf1372319",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677083143587,
+          "stop" : 1677083286877,
+          "duration" : 143290
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "showMoreTipsAndNewsTest",
+        "uid" : "e760d1908937654b",
+        "parentUid" : "52ac403f952abd00cf4c2bedf1372319",
+        "status" : "failed",
+        "time" : {
+          "start" : 1677084532279,
+          "stop" : 1677084614844,
+          "duration" : 82565
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonsOnTextTest",
+        "uid" : "39b16d6bc5033f6a",
+        "parentUid" : "52ac403f952abd00cf4c2bedf1372319",
+        "status" : "failed",
+        "time" : {
+          "start" : 1677083950315,
+          "stop" : 1677084439160,
+          "duration" : 488845
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "bettingTipsButtonTest",
+        "uid" : "d1980bfd6f10be45",
+        "parentUid" : "52ac403f952abd00cf4c2bedf1372319",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677082368088,
+          "stop" : 1677082394380,
+          "duration" : 26292
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "inPlayBetButtonTest",
+        "uid" : "2cef863cdb24f2c3",
+        "parentUid" : "52ac403f952abd00cf4c2bedf1372319",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677083017685,
+          "stop" : 1677083034224,
+          "duration" : 16539
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "allOddsButtonTest",
+        "uid" : "7318c65ddf9702ff",
+        "parentUid" : "52ac403f952abd00cf4c2bedf1372319",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677082350144,
+          "stop" : 1677082363309,
+          "duration" : 13165
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "allOddsButtonTest",
+        "uid" : "b5ddaaf706292667",
+        "parentUid" : "52ac403f952abd00cf4c2bedf1372319",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677082331878,
+          "stop" : 1677082345331,
+          "duration" : 13453
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "52ac403f952abd00cf4c2bedf1372319"
+    }, {
+      "name" : "10476@DESKTOP-S34RN4U.main(1)",
+      "children" : [ {
+        "name" : "mainLogoLinkTest",
+        "uid" : "2e0de74d8d981c54",
+        "parentUid" : "5c52b3cfbe972b12bd8cc42d5b8be24f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677071723456,
+          "stop" : 1677071737668,
+          "duration" : 14212
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "clearCookiesAndExit",
+        "uid" : "5f76c94de96a42f6",
+        "parentUid" : "5c52b3cfbe972b12bd8cc42d5b8be24f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1677071882941,
+          "stop" : 1677071882941,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerButtonsTest",
+        "uid" : "8e9002f685beba85",
+        "parentUid" : "5c52b3cfbe972b12bd8cc42d5b8be24f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677071095801,
+          "stop" : 1677071332948,
+          "duration" : 237147
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonsOnMiniBannersTest",
+        "uid" : "6274097ed4989092",
+        "parentUid" : "5c52b3cfbe972b12bd8cc42d5b8be24f",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677071883011,
+          "stop" : 1677071883012,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonsOnMiniBannersTest",
+        "uid" : "5e7f5cec30cbefb0",
+        "parentUid" : "5c52b3cfbe972b12bd8cc42d5b8be24f",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677071882977,
+          "stop" : 1677071882978,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "inPlayBetButtonTest",
+        "uid" : "faf3a13eba7909f",
+        "parentUid" : "5c52b3cfbe972b12bd8cc42d5b8be24f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677071667335,
+          "stop" : 1677071680671,
+          "duration" : 13336
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "allOddsButtonTest",
+        "uid" : "5bd4fc16b2894ccd",
+        "parentUid" : "5c52b3cfbe972b12bd8cc42d5b8be24f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677070987759,
+          "stop" : 1677071002226,
+          "duration" : 14467
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "showMoreTipsAndNewsTest",
+        "uid" : "5bd5333640547035",
+        "parentUid" : "5c52b3cfbe972b12bd8cc42d5b8be24f",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677071883043,
+          "stop" : 1677071883043,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonOnBannersTest",
+        "uid" : "bd452f24b5a43a36",
+        "parentUid" : "5c52b3cfbe972b12bd8cc42d5b8be24f",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677071882950,
+          "stop" : 1677071882950,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "mainLogoLinkTest",
+        "uid" : "b193b4581c59580b",
+        "parentUid" : "5c52b3cfbe972b12bd8cc42d5b8be24f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677071703862,
+          "stop" : 1677071718353,
+          "duration" : 14491
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonsOnTextTest",
+        "uid" : "dcc16018944b8f63",
+        "parentUid" : "5c52b3cfbe972b12bd8cc42d5b8be24f",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677071883019,
+          "stop" : 1677071883020,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerButtonsTest",
+        "uid" : "b535b6b22e4eebf9",
+        "parentUid" : "5c52b3cfbe972b12bd8cc42d5b8be24f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677071338609,
+          "stop" : 1677071586785,
+          "duration" : 248176
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "bettingTipsButtonTest",
+        "uid" : "349da52326af4e55",
+        "parentUid" : "5c52b3cfbe972b12bd8cc42d5b8be24f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677071063389,
+          "stop" : 1677071090785,
+          "duration" : 27396
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "showMoreTipsAndNewsTest",
+        "uid" : "4cb2bf38a2bd3d15",
+        "parentUid" : "5c52b3cfbe972b12bd8cc42d5b8be24f",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677071883035,
+          "stop" : 1677071883035,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "allOddsButtonTest",
+        "uid" : "1e0a44fd6a042949",
+        "parentUid" : "5c52b3cfbe972b12bd8cc42d5b8be24f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677071007637,
+          "stop" : 1677071020757,
+          "duration" : 13120
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "headerButtonsTest",
+        "uid" : "ed732f0052d54853",
+        "parentUid" : "5c52b3cfbe972b12bd8cc42d5b8be24f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1677071630154,
+          "stop" : 1677071662300,
+          "duration" : 32146
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "newsButtonTest",
+        "uid" : "9d411b564fd45a7e",
+        "parentUid" : "5c52b3cfbe972b12bd8cc42d5b8be24f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677071743718,
+          "stop" : 1677071792537,
+          "duration" : 48819
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "inPlayBetButtonTest",
+        "uid" : "87bb94786fbeedd",
+        "parentUid" : "5c52b3cfbe972b12bd8cc42d5b8be24f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677071685754,
+          "stop" : 1677071698985,
+          "duration" : 13231
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "newsButtonTest",
+        "uid" : "88b79010e4ae2575",
+        "parentUid" : "5c52b3cfbe972b12bd8cc42d5b8be24f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677071802692,
+          "stop" : 1677071831746,
+          "duration" : 29054
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "bettingTipsButtonTest",
+        "uid" : "5293365b5360321a",
+        "parentUid" : "5c52b3cfbe972b12bd8cc42d5b8be24f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677071027773,
+          "stop" : 1677071056486,
+          "duration" : 28713
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonsOnTextTest",
+        "uid" : "f1d26314494d4238",
+        "parentUid" : "5c52b3cfbe972b12bd8cc42d5b8be24f",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677071883028,
+          "stop" : 1677071883028,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5c52b3cfbe972b12bd8cc42d5b8be24f"
+    }, {
+      "name" : "24392@DESKTOP-S34RN4U.main(1)",
+      "children" : [ {
+        "name" : "regButtonOnBannersTest",
+        "uid" : "ec973ae860524775",
+        "parentUid" : "ad8b888031935d82a4a6e930241de15d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677267059902,
+          "stop" : 1677267146722,
+          "duration" : 86820
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "showMoreTipsAndNewsTest",
+        "uid" : "f02f3df0b1b0dc4f",
+        "parentUid" : "ad8b888031935d82a4a6e930241de15d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677268048259,
+          "stop" : 1677268071332,
+          "duration" : 23073
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "showMoreTipsAndNewsTest",
+        "uid" : "e80c13a900ea8432",
+        "parentUid" : "ad8b888031935d82a4a6e930241de15d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677268019540,
+          "stop" : 1677268042524,
+          "duration" : 22984
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonsOnMiniBannersTest",
+        "uid" : "f645974a3502ff26",
+        "parentUid" : "ad8b888031935d82a4a6e930241de15d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1677267211113,
+          "stop" : 1677267256826,
+          "duration" : 45713
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "bettingTipsButtonTest",
+        "uid" : "7817c93176bf6621",
+        "parentUid" : "ad8b888031935d82a4a6e930241de15d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677265931123,
+          "stop" : 1677265960962,
+          "duration" : 29839
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "allOddsButtonTest",
+        "uid" : "d3fa5aecf58547fe",
+        "parentUid" : "ad8b888031935d82a4a6e930241de15d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677265875158,
+          "stop" : 1677265888636,
+          "duration" : 13478
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerButtonsTest",
+        "uid" : "fd599e151cb6d4e6",
+        "parentUid" : "ad8b888031935d82a4a6e930241de15d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677266302813,
+          "stop" : 1677266591733,
+          "duration" : 288920
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "inPlayBetButtonTest",
+        "uid" : "9ccbbaec8da0f53",
+        "parentUid" : "ad8b888031935d82a4a6e930241de15d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677266907611,
+          "stop" : 1677266921117,
+          "duration" : 13506
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonsOnTextTest",
+        "uid" : "cf0bf8e683f1f9d6",
+        "parentUid" : "ad8b888031935d82a4a6e930241de15d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677267641445,
+          "stop" : 1677268011202,
+          "duration" : 369757
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "newsButtonTest",
+        "uid" : "e464c8a6455d9518",
+        "parentUid" : "ad8b888031935d82a4a6e930241de15d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677267024092,
+          "stop" : 1677267053397,
+          "duration" : 29305
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "headerButtonsTest",
+        "uid" : "5939730bf897d9c9",
+        "parentUid" : "ad8b888031935d82a4a6e930241de15d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1677266760306,
+          "stop" : 1677266900432,
+          "duration" : 140126
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "allOddsButtonTest",
+        "uid" : "ce11de15552d177e",
+        "parentUid" : "ad8b888031935d82a4a6e930241de15d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677265855267,
+          "stop" : 1677265868983,
+          "duration" : 13716
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "bettingTipsButtonTest",
+        "uid" : "df2fc151fdf433a7",
+        "parentUid" : "ad8b888031935d82a4a6e930241de15d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677265894248,
+          "stop" : 1677265925153,
+          "duration" : 30905
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "newsButtonTest",
+        "uid" : "f1c7d6d2c499f9cc",
+        "parentUid" : "ad8b888031935d82a4a6e930241de15d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677266989119,
+          "stop" : 1677267018378,
+          "duration" : 29259
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "mainLogoLinkTest",
+        "uid" : "2fe7131fc8157f4b",
+        "parentUid" : "ad8b888031935d82a4a6e930241de15d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677266968055,
+          "stop" : 1677266982821,
+          "duration" : 14766
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "mainLogoLinkTest",
+        "uid" : "eb13baed861fdf4a",
+        "parentUid" : "ad8b888031935d82a4a6e930241de15d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677266947516,
+          "stop" : 1677266962151,
+          "duration" : 14635
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "inPlayBetButtonTest",
+        "uid" : "8042e9994fc5f54c",
+        "parentUid" : "ad8b888031935d82a4a6e930241de15d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677266928365,
+          "stop" : 1677266941947,
+          "duration" : 13582
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonsOnTextTest",
+        "uid" : "975247a89863722c",
+        "parentUid" : "ad8b888031935d82a4a6e930241de15d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677267262316,
+          "stop" : 1677267632970,
+          "duration" : 370654
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ad8b888031935d82a4a6e930241de15d"
+    }, {
+      "name" : "16040@DESKTOP-S34RN4U.main(1)",
+      "children" : [ {
+        "name" : "footerButtonsTest",
+        "uid" : "2a22027b6b6ee396",
+        "parentUid" : "71d7efa0fa8c94db581940ed8fc6f675",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677072379575,
+          "stop" : 1677072694788,
+          "duration" : 315213
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerButtonsTest",
+        "uid" : "6349724c6d8f0545",
+        "parentUid" : "71d7efa0fa8c94db581940ed8fc6f675",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677072115847,
+          "stop" : 1677072374626,
+          "duration" : 258779
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "bettingTipsButtonTest",
+        "uid" : "c6c304627888f441",
+        "parentUid" : "71d7efa0fa8c94db581940ed8fc6f675",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677072084084,
+          "stop" : 1677072111013,
+          "duration" : 26929
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonsOnTextTest",
+        "uid" : "c4e7661d78cd6ccd",
+        "parentUid" : "71d7efa0fa8c94db581940ed8fc6f675",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677072994521,
+          "stop" : 1677072994521,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "inPlayBetButtonTest",
+        "uid" : "3aac69fd89083cc2",
+        "parentUid" : "71d7efa0fa8c94db581940ed8fc6f675",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677072818288,
+          "stop" : 1677072834803,
+          "duration" : 16515
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonsOnMiniBannersTest",
+        "uid" : "8abbab2ac55455c6",
+        "parentUid" : "71d7efa0fa8c94db581940ed8fc6f675",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677072994481,
+          "stop" : 1677072994481,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonsOnMiniBannersTest",
+        "uid" : "ea9563b80a923e07",
+        "parentUid" : "71d7efa0fa8c94db581940ed8fc6f675",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677072994514,
+          "stop" : 1677072994514,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "allOddsButtonTest",
+        "uid" : "506e8364a2976ab8",
+        "parentUid" : "71d7efa0fa8c94db581940ed8fc6f675",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677072031970,
+          "stop" : 1677072045754,
+          "duration" : 13784
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "showMoreTipsAndNewsTest",
+        "uid" : "6cde1195be996c20",
+        "parentUid" : "71d7efa0fa8c94db581940ed8fc6f675",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677072994534,
+          "stop" : 1677072994534,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "inPlayBetButtonTest",
+        "uid" : "16e31c5e8a2c5a4a",
+        "parentUid" : "71d7efa0fa8c94db581940ed8fc6f675",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677072795184,
+          "stop" : 1677072808963,
+          "duration" : 13779
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "newsButtonTest",
+        "uid" : "faee5affab19fe87",
+        "parentUid" : "71d7efa0fa8c94db581940ed8fc6f675",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677072882767,
+          "stop" : 1677072910326,
+          "duration" : 27559
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "clearCookiesAndExit",
+        "uid" : "37d156190dbb79db",
+        "parentUid" : "71d7efa0fa8c94db581940ed8fc6f675",
+        "status" : "broken",
+        "time" : {
+          "start" : 1677072994448,
+          "stop" : 1677072994449,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "newsButtonTest",
+        "uid" : "e6bf6e7dd3b89bbd",
+        "parentUid" : "71d7efa0fa8c94db581940ed8fc6f675",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677072915495,
+          "stop" : 1677072943073,
+          "duration" : 27578
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "mainLogoLinkTest",
+        "uid" : "cd4dde319901bc4b",
+        "parentUid" : "71d7efa0fa8c94db581940ed8fc6f675",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677072842543,
+          "stop" : 1677072856667,
+          "duration" : 14124
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonOnBannersTest",
+        "uid" : "ae1182b50b37a7df",
+        "parentUid" : "71d7efa0fa8c94db581940ed8fc6f675",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677072994457,
+          "stop" : 1677072994458,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonsOnTextTest",
+        "uid" : "249f0b9d4db47e81",
+        "parentUid" : "71d7efa0fa8c94db581940ed8fc6f675",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677072994528,
+          "stop" : 1677072994528,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "allOddsButtonTest",
+        "uid" : "34cdc35269c66bc2",
+        "parentUid" : "71d7efa0fa8c94db581940ed8fc6f675",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677072012223,
+          "stop" : 1677072025786,
+          "duration" : 13563
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "headerButtonsTest",
+        "uid" : "de8a6eaf1b888b33",
+        "parentUid" : "71d7efa0fa8c94db581940ed8fc6f675",
+        "status" : "broken",
+        "time" : {
+          "start" : 1677072753775,
+          "stop" : 1677072785948,
+          "duration" : 32173
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "bettingTipsButtonTest",
+        "uid" : "b81c82daf41e8e3",
+        "parentUid" : "71d7efa0fa8c94db581940ed8fc6f675",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677072051099,
+          "stop" : 1677072077855,
+          "duration" : 26756
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "mainLogoLinkTest",
+        "uid" : "2002d3cb12c3b9aa",
+        "parentUid" : "71d7efa0fa8c94db581940ed8fc6f675",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677072861467,
+          "stop" : 1677072875866,
+          "duration" : 14399
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "showMoreTipsAndNewsTest",
+        "uid" : "408cd17c3f01b154",
+        "parentUid" : "71d7efa0fa8c94db581940ed8fc6f675",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677072994541,
+          "stop" : 1677072994541,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "71d7efa0fa8c94db581940ed8fc6f675"
+    }, {
+      "name" : "26088@DESKTOP-S34RN4U.main(1)",
+      "children" : [ {
+        "name" : "regButtonsOnMiniBannersTest",
+        "uid" : "ca39435da6fb6ada",
+        "parentUid" : "139d4125b986f7197053cef30f6b3175",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677311359610,
+          "stop" : 1677311482275,
+          "duration" : 122665
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonsOnMiniBannersTest",
+        "uid" : "3e235328e5dfa58b",
+        "parentUid" : "139d4125b986f7197053cef30f6b3175",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677311230848,
+          "stop" : 1677311353977,
+          "duration" : 123129
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "139d4125b986f7197053cef30f6b3175"
+    }, {
+      "name" : "12952@DESKTOP-S34RN4U.main(1)",
+      "children" : [ {
+        "name" : "regButtonOnBannersTest",
+        "uid" : "9a56ba1853d3e410",
+        "parentUid" : "2da7ce9c01506b615faa43bda1c94d51",
+        "status" : "broken",
+        "time" : {
+          "start" : 1677080138531,
+          "stop" : 1677080184886,
+          "duration" : 46355
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "clearCookiesAndExit",
+        "uid" : "a288bf356c39c6dd",
+        "parentUid" : "2da7ce9c01506b615faa43bda1c94d51",
+        "status" : "broken",
+        "time" : {
+          "start" : 1677080184910,
+          "stop" : 1677080184910,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2da7ce9c01506b615faa43bda1c94d51"
+    }, {
+      "name" : "16848@DESKTOP-S34RN4U.main(1)",
+      "children" : [ {
+        "name" : "regButtonsOnMiniBannersTest",
+        "uid" : "96afd578a297d7e9",
+        "parentUid" : "5529be014f17d8a301638f2cae4b2e30",
+        "status" : "broken",
+        "time" : {
+          "start" : 1677310715733,
+          "stop" : 1677310803575,
+          "duration" : 87842
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5529be014f17d8a301638f2cae4b2e30"
+    }, {
+      "name" : "15388@DESKTOP-S34RN4U.main(1)",
+      "children" : [ {
+        "name" : "clearCookiesAndExit",
+        "uid" : "3f0a67607faf380",
+        "parentUid" : "1de6f9152e7e72cbd8baa2570bf39f13",
+        "status" : "broken",
+        "time" : {
+          "start" : 1677080030334,
+          "stop" : 1677080030336,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonOnBannersTest",
+        "uid" : "822566a5f5786a10",
+        "parentUid" : "1de6f9152e7e72cbd8baa2570bf39f13",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1677080030354,
+          "stop" : 1677080030355,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1de6f9152e7e72cbd8baa2570bf39f13"
+    }, {
+      "name" : "11768@DESKTOP-S34RN4U.main(1)",
+      "children" : [ {
+        "name" : "clearCookiesAndExit",
+        "uid" : "2be859a53e78bc35",
+        "parentUid" : "e120b549b53e5a966396c59b9dd1984b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1677080307415,
+          "stop" : 1677080307416,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "regButtonOnBannersTest",
+        "uid" : "14e57d00d0ed0113",
+        "parentUid" : "e120b549b53e5a966396c59b9dd1984b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1677080259050,
+          "stop" : 1677080307390,
+          "duration" : 48340
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e120b549b53e5a966396c59b9dd1984b"
+    }, {
+      "name" : "23800@DESKTOP-S34RN4U.main(1)",
+      "children" : [ {
+        "name" : "regButtonsOnMiniBannersTest",
+        "uid" : "da2df1640815ca8e",
+        "parentUid" : "e1ee9e59eaf3c46e325149c9796e91a5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1677310220352,
+          "stop" : 1677310266080,
+          "duration" : 45728
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e1ee9e59eaf3c46e325149c9796e91a5"
+    }, {
+      "name" : "724@DESKTOP-S34RN4U.main(1)",
+      "children" : [ {
+        "name" : "regButtonOnBannersTest",
+        "uid" : "d6c49b18996d78ae",
+        "parentUid" : "ed2f6813e07ecdefd6e0624d359c3fa9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1677080445492,
+          "stop" : 1677080561147,
+          "duration" : 115655
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ed2f6813e07ecdefd6e0624d359c3fa9"
+    } ],
+    "uid" : "2530be0ff5b3737e92d035afc77f8884"
+  } ]
+}

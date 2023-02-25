@@ -1,0 +1,232 @@
+{
+  "b65132136dc6b27a94cbf2a7f0b8ede2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fd599e151cb6d4e6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1677266302813,
+        "stop" : 1677266591733,
+        "duration" : 288920
+      }
+    } ]
+  },
+  "39e5ef05b8a1c78948297f3db30a5593" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ca39435da6fb6ada",
+      "status" : "passed",
+      "time" : {
+        "start" : 1677311359610,
+        "stop" : 1677311482275,
+        "duration" : 122665
+      }
+    } ]
+  },
+  "6290e4102554de1c6d86014acc983a9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8042e9994fc5f54c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1677266928365,
+        "stop" : 1677266941947,
+        "duration" : 13582
+      }
+    } ]
+  },
+  "5307499c57ef9e6332784a1d06aed527" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ec973ae860524775",
+      "status" : "passed",
+      "time" : {
+        "start" : 1677267059902,
+        "stop" : 1677267146722,
+        "duration" : 86820
+      }
+    } ]
+  },
+  "7cdeb70c6d7afe7db16a5ee1ebeec76c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d3fa5aecf58547fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1677265875158,
+        "stop" : 1677265888636,
+        "duration" : 13478
+      }
+    } ]
+  },
+  "75f78b20c3a29bb42bc2a8a97f6cffc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "761da1d21a5887a8",
+      "status" : "broken",
+      "statusDetails" : "java.util.concurrent.TimeoutException\nBuild info: version: '4.1.4', revision: '535d840ee2'\nSystem info: host: 'DESKTOP-S34RN4U', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2f7fe1c43c77c50786ac7e2328d43dd, close {}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.104, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\\Users\\Igor\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59075}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59075/devtoo..., se:cdpVersion: 110.0.5481.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: d2f7fe1c43c77c50786ac7e2328d43dd",
+      "time" : {
+        "start" : 1677085375460,
+        "stop" : 1677085375461,
+        "duration" : 1
+      }
+    } ]
+  },
+  "83b5ca26aef42e9677c624e8eac59bb6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2fe7131fc8157f4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1677266968055,
+        "stop" : 1677266982821,
+        "duration" : 14766
+      }
+    } ]
+  },
+  "5dae1bad11f20fba9aa12e80845fa800" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e464c8a6455d9518",
+      "status" : "passed",
+      "time" : {
+        "start" : 1677267024092,
+        "stop" : 1677267053397,
+        "duration" : 29305
+      }
+    } ]
+  },
+  "d8b41e6cd70f87f629bfce1892b0343c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f02f3df0b1b0dc4f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1677268048259,
+        "stop" : 1677268071332,
+        "duration" : 23073
+      }
+    } ]
+  },
+  "68fcd56c7aa036e431b23ccd8a9c1052" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cf0bf8e683f1f9d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1677267641445,
+        "stop" : 1677268011202,
+        "duration" : 369757
+      }
+    } ]
+  },
+  "e6fd67cf36e64cc7c9ef1f3fab0d02bd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7817c93176bf6621",
+      "status" : "passed",
+      "time" : {
+        "start" : 1677265931123,
+        "stop" : 1677265960962,
+        "duration" : 29839
+      }
+    } ]
+  },
+  "d222cb96374f0eeff36a5ae342e796b9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5939730bf897d9c9",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"(//a[@class='c-header__nav'])[4]\"}\n  (Session info: chrome=110.0.5481.104)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.1.4', revision: '535d840ee2'\nSystem info: host: 'DESKTOP-S34RN4U', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [c5e8d09416482534d8cfdf85226a3800, findElement {using=xpath, value=(//a[@class='c-header__nav'])[4]}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.104, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\\Users\\Igor\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:50393}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50393/devtoo..., se:cdpVersion: 110.0.5481.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: c5e8d09416482534d8cfdf85226a3800",
+      "time" : {
+        "start" : 1677266760306,
+        "stop" : 1677266900432,
+        "duration" : 140126
+      }
+    } ]
+  }
+}
