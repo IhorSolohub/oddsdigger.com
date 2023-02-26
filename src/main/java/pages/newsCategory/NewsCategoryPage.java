@@ -10,7 +10,7 @@ public class NewsCategoryPage extends BasePage {
     public NewsCategoryPage(WebDriver driver) {super(driver);}
 
     public NewsCategoryPage newsButtonClick (int numButton) {
-        By newsButton = By.xpath("(//a[@class='c-card__headline'])[" + numButton + "]");
+        By newsButton = By.xpath("(//div[@class='c-card__headline'])[" + numButton + "]");
         driver.findElement(newsButton).click();
         return this;
     }

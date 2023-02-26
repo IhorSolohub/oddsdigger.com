@@ -107,7 +107,12 @@ public class Constant {
                 "Free Sports Betting Tips and Daily Expert Predictions",
                 "Sports News",
                 "Lineups, Results & Betting Tips",
-                "Prediction, and Betting Tips"
+                "Prediction, and Betting Tips",
+                "Sports Betting",
+                "Leighton Aspell",
+                "Statistics and Biography",
+                "Sports Betting"
+
         );
         public static final List<String> AUTHORS_TITLES = Arrays.asList(
                 "Samantha"
@@ -118,9 +123,9 @@ public class Constant {
         public static final int NUMBER_OF_BETTING_TIPS_MAIN_PAGE = 3;
         public static final int NUMBER_OF_NEWS_MAIN_PAGE = 3;
         public static final int NUMBER_OF_SHOW_MORE_TIPS_AND_NEWS_MAIN_PAGE = 2;
-        public static final int NUMBER_OF_TIPS_TIPS_CATEGORY = 7;
-        public static final int NUMBER_OF_NEWS_NEWS_CATEGORY = 7;
-        public static final int NUMBER_OF_BLOGS_BLOG_CATEGORY = 7;
+        public static final int NUMBER_OF_TIPS_TIPS_CATEGORY = 6;
+        public static final int NUMBER_OF_NEWS_NEWS_CATEGORY = 6;
+        public static final int NUMBER_OF_BLOGS_BLOG_CATEGORY = 6;
     }
 
     public static class Common {

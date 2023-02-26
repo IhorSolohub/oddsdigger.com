@@ -62,8 +62,11 @@ public class BlogCategoryTest extends BaseTest {
     @Test(invocationCount = 2, successPercentage = 99)
     public void blogsButtonTest () {
         basePage.closePopup();
+        basePage.closeSecondPopup();
         int goodTitlesCount = 0;
         for (int i = 1; i <= NUMBER_OF_BLOGS_BLOG_CATEGORY; i++) {
+            basePage.waitOneSeconds();
+            if (i==2) {basePage.closeThirdPopup();}
             basePage.waitOneSeconds();
             blogCategoryPage.blogsButtonClick(i);
             basePage.waitOneSeconds();

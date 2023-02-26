@@ -29,6 +29,8 @@ public class BasePage {
     private final By closeSecondPopupsButton = By.xpath("//a[@class='c-a-invert js-user-entry-open-popup-login']");
 
     private final By closeLoginPopupsButton = By.xpath("//span[@class='c-modal__close']");
+
+    private final By closeThirdPopupsButton = By.xpath("//span[@class='c-modal__default-headline-close']");
     private final By headerMenuOpen = By.xpath("//button[@class='c-header__drop-btn']");
     private final By languageMenuOpen = By.xpath("(//a[@class='GWKzg2k4-_ xL5mIE js-header-drop-btn '])[5]");
     private final By checkLanguageMenuVisible = By.xpath("(//span[@class='wpml-ls-native'])[3]");
@@ -120,6 +122,15 @@ public class BasePage {
         if(driver.findElement(closeLoginPopupsButton).isDisplayed()) {
             waitOneSeconds();
             driver.findElement(closeLoginPopupsButton).click();
+        }
+        return this;
+    }
+
+    public BasePage closeThirdPopup () {
+        waitTenSeconds();
+        if(driver.findElement(closeThirdPopupsButton).isDisplayed()) {
+            waitOneSeconds();
+            driver.findElement(closeThirdPopupsButton).click();
         }
         return this;
     }

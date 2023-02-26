@@ -10,7 +10,7 @@ public class BlogCategoryPage extends BasePage {
     public BlogCategoryPage(WebDriver driver) {super(driver);}
 
     public BlogCategoryPage blogsButtonClick (int numButton) {
-        By blogsButton = By.xpath("(//a[@class='c-card__headline'])[" + numButton + "]");
+        By blogsButton = By.xpath("(//div[@class='c-card__headline'])[" + numButton + "]");
         driver.findElement(blogsButton).click();
         return this;
     }

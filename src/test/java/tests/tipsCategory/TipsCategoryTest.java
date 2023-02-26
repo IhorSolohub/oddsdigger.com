@@ -63,6 +63,7 @@ public class TipsCategoryTest extends BaseTest {
     @Test(invocationCount = 2, successPercentage = 99)
     public void tipsButtonTest () {
         basePage.closePopup();
+        basePage.closeSecondPopup();
         int goodTitlesCount = 0;
         for (int i = 1; i <= NUMBER_OF_TIPS_TIPS_CATEGORY; i++) {
             basePage.waitOneSeconds();
