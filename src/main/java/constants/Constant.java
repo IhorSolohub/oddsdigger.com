@@ -11,6 +11,9 @@ public class Constant {
 
     public static class Urls {
         public static final String MAIN_PAGE_URL = "https://oddsdigger.com/";
+        public static final String TIPS_CATEGORY_URL = "https://oddsdigger.com/tips";
+        public static final String NEWS_CATEGORY_URL = "https://oddsdigger.com/news";
+        public static final String BLOG_CATEGORY_URL = "https://oddsdigger.com/blog";
     }
 
     public static class Header {
@@ -102,7 +105,9 @@ public class Constant {
                 "Rugby assessment",
                 "Djokovic's return to the Australian Open",
                 "Free Sports Betting Tips and Daily Expert Predictions",
-                "Sports News"
+                "Sports News",
+                "Lineups, Results & Betting Tips",
+                "Prediction, and Betting Tips"
         );
         public static final List<String> AUTHORS_TITLES = Arrays.asList(
                 "Samantha"
@@ -113,6 +118,9 @@ public class Constant {
         public static final int NUMBER_OF_BETTING_TIPS_MAIN_PAGE = 3;
         public static final int NUMBER_OF_NEWS_MAIN_PAGE = 3;
         public static final int NUMBER_OF_SHOW_MORE_TIPS_AND_NEWS_MAIN_PAGE = 2;
+        public static final int NUMBER_OF_TIPS_TIPS_CATEGORY = 7;
+        public static final int NUMBER_OF_NEWS_NEWS_CATEGORY = 7;
+        public static final int NUMBER_OF_BLOGS_BLOG_CATEGORY = 7;
     }
 
     public static class Common {

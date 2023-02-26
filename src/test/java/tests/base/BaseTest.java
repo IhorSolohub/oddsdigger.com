@@ -4,18 +4,27 @@ import common.CommonActions;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterMethod;
 import pages.base.BasePage;
+import pages.blogCategory.BlogCategoryPage;
 import pages.main.MainPage;
+import pages.newsCategory.NewsCategoryPage;
+import pages.tipsCategory.TipsCategoryPage;
+import tests.newsCategory.NewsCategoryTest;
 
 public class BaseTest {
 
     public BasePage basePage;
     public MainPage mainPage;
+    public TipsCategoryPage tipsCategoryPage;
+    public NewsCategoryPage newsCategoryPage;
+    public BlogCategoryPage blogCategoryPage;
 
     public void startDriver (String browser) {
         WebDriver driver = null;
         switch (browser) {
             case "main" :
-            case "findHookup" :
+            case "tipsCategory" :
+            case "newsCategory" :
+            case "blogCategory" :
                 driver = CommonActions.createDriver("CHROME", 1024, 1366);
                 break;
             case "reviewCategory" :
@@ -26,9 +35,6 @@ public class BaseTest {
                 break;
             case "escort" :
                 driver = CommonActions.createDriver("CHROME", 768, 1024);
-                break;
-            case "blogCategory" :
-                driver = CommonActions.createDriver("CHROME", 1024, 768);
                 break;
             case "blog" :
                 driver = CommonActions.createDriver("CHROME", 1024, 1366);
@@ -48,6 +54,9 @@ public class BaseTest {
         }
         basePage = new BasePage(driver);
         mainPage = new MainPage(driver);
+        tipsCategoryPage = new TipsCategoryPage(driver);
+        newsCategoryPage = new NewsCategoryPage(driver);
+        blogCategoryPage = new BlogCategoryPage(driver);
     }
 
     @AfterMethod
