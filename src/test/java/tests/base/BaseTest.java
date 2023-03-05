@@ -4,10 +4,14 @@ import common.CommonActions;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterMethod;
 import pages.base.BasePage;
+import pages.blog.BlogPage;
 import pages.blogCategory.BlogCategoryPage;
 import pages.main.MainPage;
+import pages.news.NewsPage;
 import pages.newsCategory.NewsCategoryPage;
+import pages.tips.TipsPage;
 import pages.tipsCategory.TipsCategoryPage;
+import tests.news.NewsTest;
 import tests.newsCategory.NewsCategoryTest;
 
 public class BaseTest {
@@ -17,6 +21,9 @@ public class BaseTest {
     public TipsCategoryPage tipsCategoryPage;
     public NewsCategoryPage newsCategoryPage;
     public BlogCategoryPage blogCategoryPage;
+    public TipsPage tipsPage;
+    public NewsPage newsPage;
+    public BlogPage blogPage;
 
     public void startDriver (String browser) {
         WebDriver driver = null;
@@ -25,6 +32,9 @@ public class BaseTest {
             case "tipsCategory" :
             case "newsCategory" :
             case "blogCategory" :
+            case "tips" :
+            case "news" :
+            case "blog" :
                 driver = CommonActions.createDriver("CHROME", 1024, 1366);
                 break;
             case "reviewCategory" :
@@ -35,9 +45,6 @@ public class BaseTest {
                 break;
             case "escort" :
                 driver = CommonActions.createDriver("CHROME", 768, 1024);
-                break;
-            case "blog" :
-                driver = CommonActions.createDriver("CHROME", 1024, 1366);
                 break;
             case "sugarDaddies" :
                 driver = CommonActions.createDriver("CHROME", 1024, 768);
@@ -57,6 +64,9 @@ public class BaseTest {
         tipsCategoryPage = new TipsCategoryPage(driver);
         newsCategoryPage = new NewsCategoryPage(driver);
         blogCategoryPage = new BlogCategoryPage(driver);
+        tipsPage = new TipsPage(driver);
+        newsPage = new NewsPage(driver);
+        blogPage = new BlogPage(driver);
     }
 
     @AfterMethod

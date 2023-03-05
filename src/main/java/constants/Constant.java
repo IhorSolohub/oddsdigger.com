@@ -14,6 +14,9 @@ public class Constant {
         public static final String TIPS_CATEGORY_URL = "https://oddsdigger.com/tips";
         public static final String NEWS_CATEGORY_URL = "https://oddsdigger.com/news";
         public static final String BLOG_CATEGORY_URL = "https://oddsdigger.com/blog";
+        public static final String TIPS_PAGE_URL = "https://oddsdigger.com/tips/golf/us-open-information";
+        public static final String NEWS_PAGE_URL = "https://oddsdigger.com/news/horse-racing/the-most-up-to-date-information-about-cheltenham-festival-2023";
+        public static final String BLOG_PAGE_URL = "https://oddsdigger.com/blog/king-george-vi-chase";
     }
 
     public static class Header {
@@ -74,7 +77,8 @@ public class Constant {
                 "OddsDigger's Terms & Conditions",
                 "OddsDigger - Cookies",
                 "Responsible Betting at OddsDigger",
-                "OddsDigger - About Us"
+                "OddsDigger - About Us",
+                "Golf Predictions"
         );
         public static final int NUMBER_OF_GOOD_FOOTER_BUTTONS = 34;
     }
@@ -92,6 +96,7 @@ public class Constant {
         public static final int NUMBER_OF_REG_BUTTONS_ON_BANNERS_MAIN_PAGE = 2;
         public static final int NUMBER_OF_REG_BUTTONS_ON_MINI_BANNERS_MAIN_PAGE = 3;
         public static final int NUMBER_OF_REG_BUTTONS_ON_TEXT_MAIN_PAGE = 8;
+        public static final int NUMBER_OF_REG_BUTTONS_IN_SIDEBAR_TIPS_PAGE = 10;
     }
 
     public static class Reviews {
@@ -111,7 +116,12 @@ public class Constant {
                 "Sports Betting",
                 "Leighton Aspell",
                 "Statistics and Biography",
-                "Sports Betting"
+                "Sports Betting",
+                "Prix de l",
+                "Belmont Stakes News",
+                "Horse Racing",
+                "Betting Odds",
+                "Betting Tips"
 
         );
         public static final List<String> AUTHORS_TITLES = Arrays.asList(
@@ -126,6 +136,10 @@ public class Constant {
         public static final int NUMBER_OF_TIPS_TIPS_CATEGORY = 6;
         public static final int NUMBER_OF_NEWS_NEWS_CATEGORY = 6;
         public static final int NUMBER_OF_BLOGS_BLOG_CATEGORY = 6;
+        public static final int NUMBER_OF_MOST_POPULAR_ODDS_TIPS_PAGE = 10;
+        public static final int NUMBER_OF_OTHER_TIPS_TIPS_PAGE = 8;
+        public static final int NUMBER_OF_OTHER_NEWS_NEWS_PAGE = 4;
+        public static final int NUMBER_OF_LATEST_ARTICLES_BLOG_PAGE = 5;
     }
 
     public static class Common {
