@@ -17,6 +17,7 @@ public class Constant {
         public static final String TIPS_PAGE_URL = "https://oddsdigger.com/tips/golf/us-open-information";
         public static final String NEWS_PAGE_URL = "https://oddsdigger.com/news/horse-racing/the-most-up-to-date-information-about-cheltenham-festival-2023";
         public static final String BLOG_PAGE_URL = "https://oddsdigger.com/blog/king-george-vi-chase";
+        public static final String FOOTBALL_CATEGORY_URL = "https://oddsdigger.com/football";
     }
 
     public static class Header {
@@ -78,7 +79,8 @@ public class Constant {
                 "OddsDigger - Cookies",
                 "Responsible Betting at OddsDigger",
                 "OddsDigger - About Us",
-                "Golf Predictions"
+                "Golf Predictions",
+                "Browse Football"
         );
         public static final int NUMBER_OF_GOOD_FOOTER_BUTTONS = 34;
     }
@@ -121,7 +123,8 @@ public class Constant {
                 "Belmont Stakes News",
                 "Horse Racing",
                 "Betting Odds",
-                "Betting Tips"
+                "Betting Tips",
+                "Messi"
 
         );
         public static final List<String> AUTHORS_TITLES = Arrays.asList(
@@ -140,6 +143,7 @@ public class Constant {
         public static final int NUMBER_OF_OTHER_TIPS_TIPS_PAGE = 8;
         public static final int NUMBER_OF_OTHER_NEWS_NEWS_PAGE = 4;
         public static final int NUMBER_OF_LATEST_ARTICLES_BLOG_PAGE = 5;
+        public static final int NUMBER_OF_BETTING_TIPS_FOOTBALL_CATEGORY = 3;
     }
 
     public static class Common {
